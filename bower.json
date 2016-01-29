@@ -1,0 +1,18 @@
+{
+  "name": "scrollfix",
+  "description": "Prevent scroll past top/bottom of a div from scrolling the entire page instead in iOS",
+  "main": [
+    "scrollfix.js",
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "scroll",
+    "overflow",
+    "iOS",
+    "bounce"
+  ]
+}
